@@ -1,0 +1,25 @@
+body {
+    font-family: 'Bree Serif', serif;
+    background-color: #e6ecf0;
+}
+/*--------------------------------- PERSONAL BLOCK --------------------------------*/
+.menu {
+    background-color: white;
+    padding: 15px;
+}
+.menu a {
+    padding: 12px;
+    text-decoration: none;
+    font-size: 12px;
+}
+.menu a:hover {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #134aff;
+}
+
+/*---------------------------- END OF PERSONAL BLOCK -----------------------------------------*/
+#personal-block {
+    background-color: white;
+    color: black;
+}
